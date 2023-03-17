@@ -64,7 +64,6 @@ deleteDir();
 
 // Bonus Task
 
-
 //fs.mkdirSync("node-exercise");
 fs.mkdirSync("./node-exercise/data");
 
