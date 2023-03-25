@@ -1,0 +1,2 @@
+Write a Node.js script that reads a text file and prints its contents to the console. 
+Create a Node.js module that exports a function that accepts a string and returns the length of the string. Write a script that uses this module to calculate the length of a given string.

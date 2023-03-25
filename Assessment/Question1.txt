@@ -1,0 +1,28 @@
+Node.Js
+
+It is a Backend  programming language that makes easier interactions between the Client  and the Server side. It also means that Node.js can handle a large number of concurrent connections without using a lot of system resources because it is built on V8 engine and uses an event-driven, non-blocking I/O model, which makes it very efficient for handling a large number of requests at the same time. This means that Node.js can handle a high volume of traffic without getting bogged down.
+
+Advantages of using Node.js for backend development
+
+a)Non blocking Input and output.
+b)It is event driven
+c)High performance.
+
+
+How to install Node.js on a machine
+
+a)Go to the official Node.js website and download the Windows Installer, and launch the Node.js installer.
+b)Follow the prompts in the installer to complete the installation process.
+c)After the installation,, open the Command Prompt.
+d)Type "node -v" in the command prompt to check the command prompt should display the version number of Node.js which shows that it has been successfully installed.
+e)To start using Node.js, you can create a new file with a ".js" extension and write your Node.js code in it. 
+
+Node.js module system and how does it work
+
+Node module is like a global variable that is used to to load modules using the "require" function 
+Const module = require(“module”);
+With this snippet, we are importing a module from file named module and it can be export as well using export.module keyword.
+
+What are npm modules and how do you install them in your project.
+
+The word NPM stands for node package manager which is a default package for node.js and it’s the module that is used to extend the functionality of Node.js applications by providing pre-built code that can be easily integrated into an application.
